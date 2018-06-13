@@ -1,0 +1,107 @@
+@media screen and (max-width: 593px)  {
+	.container-leftt {
+		float: none;
+		width: 100%;
+	}
+
+	.container-rightt{
+		float: none;
+		width: 100%;
+		padding: 15px;
+	}
+
+	body{
+		font-size: 0;
+	}
+
+	table{
+		width: 100%;
+		
+	}
+
+	td{
+		display: block;
+		width: 100%;
+	}
+
+	
+
+	tr{
+	display: block;
+	width: 100%;
+    }
+
+    nav{
+	font-size: 18px;
+	position: absolute;
+	bottom: -2692px;
+    left: 55%;
+}
+
+.input-textt{
+	text-align: center;
+	width: 100%;
+}
+
+.table td, .table th {
+    width: 100%;
+    font-size: 14px;
+}
+
+.button a{
+	font-size: 20px;
+}
+}
+
+@media screen and (max-width: 298px)  {
+	.container-leftt {
+		float: none;
+		width: 100%;
+	}
+
+	.container-rightt{
+		float: none;
+		width: 100%;
+	}
+
+	body{
+		font-size: 0;
+	}
+
+	tr{
+	display: block;
+    }
+
+    nav {
+    font-size: 18px;
+    position: absolute;
+    bottom: -2265px;
+    left: -4%;
+}
+
+.input-textt{
+	text-align: center;
+	width: 100%;
+}
+
+.table td, .table th {
+    width: 100%;
+}
+
+.headd a {
+    font-size: 20px;
+    color: silver;
+    font-style: italic;
+}
+
+.buttonn {
+    display: block;
+    margin: 20px;
+    padding: 7px;
+    background-color: #63B43F;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    
+}
+}

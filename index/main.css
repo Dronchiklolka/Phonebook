@@ -1,0 +1,46 @@
+a{
+     
+	color:silver;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.container-fluid{
+	margin: 5px;
+	padding-bottom: 15px;
+	border-bottom: : 5px solid silver;
+}
+
+.container{
+	border: 1px solid silver;
+	padding: 30px;
+	overflow-y: hidden;
+}
+
+.navbar-expand-lg {
+	font-size: 20px;
+	justify-content:space-between;
+	color: #f2f2f2;
+}
+
+.navbar navbar-expand-lg navbar-default bg-light{
+}
+
+.footer{
+	padding-left: 150px;
+	padding: 15px;
+	display: inline-block;
+	position: relative;
+}
+	
+.pagination {
+padding-left: 365px;
+}	
+
+@media screen and (max-width: 768px) {
+	.pagination {
+padding-left: 4px;
+}	
+}

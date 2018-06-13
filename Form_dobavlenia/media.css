@@ -1,0 +1,27 @@
+@media screen and (max-width: 500px)  {
+	.container-left {
+		float: none;
+		width: 100%;
+		margin-right: 15px;
+	}
+
+	.container-right{
+		float: none;
+		width: 100%;
+	}
+
+	.head-text{
+		  padding-top: 32px;
+	}
+
+	.button{
+		font-size: 21px;
+	}
+
+	body{
+		font-size: 0;
+	}
+
+	
+
+
